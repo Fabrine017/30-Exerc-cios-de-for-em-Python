@@ -8,4 +8,4 @@ for letra in palavra:
             if letra == l:
                 contadas = contadas + letra
                 quantidade +=1
-        print(f'Letra {letra} = {quantidade}')
+        print(f'Letra {letra} = {quantidade}.')
